@@ -1,0 +1,51 @@
+OPEN INTEREST
+19 November 2026
+
+LEAD:
+Binance gains a legal route to frozen theft funds. [https://www.binance.com/en/square/post/11-18-2026-binance-obtains-adgm-court-order-to-proceed-with-the-recovery-of-assets-related-to-the-security-incident-389680967379786]
+
+An Abu Dhabi court order gives Binance a court-supervised route to pursue assets frozen after its 29 October security incident. [https://www.binance.com/en/square/post/11-18-2026-binance-obtains-adgm-court-order-to-proceed-with-the-recovery-of-assets-related-to-the-security-incident-389680967379786]
+The order does not itself establish how much will return, but it changes who can keep the disputed tokens from moving. [https://www.investing.com/news/economy-news/binance-says-it-has-court-order-to-get-back-crypto-frozen-after-63-billion-heist-5036806]
+
+On 18 November, Binance said that the Abu Dhabi Global Market Court had granted an order to support recovery of assets connected with the incident. [https://www.binance.com/en/square/post/11-18-2026-binance-obtains-adgm-court-order-to-proceed-with-the-recovery-of-assets-related-to-the-security-incident-389680967379786] Reuters, citing court documents, reported that the order requires 18 named companies to preserve assets linked to the theft and bars lending, swapping or mixing them pending further proceedings. [https://www.investing.com/news/economy-news/binance-says-it-has-court-order-to-get-back-crypto-frozen-after-63-billion-heist-5036806] Reuters also reported that the companies are not accused of wrongdoing. [https://www.investing.com/news/economy-news/binance-says-it-has-court-order-to-get-back-crypto-frozen-after-63-billion-heist-5036806]
+
+The court step follows a larger public recovery effort. [https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency] On 12 November, the U.S. Justice Department said TraderTraitor, which it described as members of the North Korean military, stole more than $6 billion from Binance around 29 October; it said public and private efforts had frozen more than $2.7 billion and obtained authority to seize or restrain more than $1.2 billion. [https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency] Those figures are measures of restraint, not a published tally of money returned to Binance. [https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency]
+
+The practical question is whether a civil order can convert a freeze into custody transfer across issuers and venues. [https://www.investing.com/news/economy-news/binance-says-it-has-court-order-to-get-back-crypto-frozen-after-63-billion-heist-5036806] Reuters reported that the court will consider continuation and terms of the proprietary injunction on 1 December. [https://www.investing.com/news/economy-news/binance-says-it-has-court-order-to-get-back-crypto-frozen-after-63-billion-heist-5036806] Binance has described the order as support for recovery, not as a completed recovery. [https://www.binance.com/en/square/post/11-18-2026-binance-obtains-adgm-court-order-to-proceed-with-the-recovery-of-assets-related-to-the-security-incident-389680967379786]
+
+NEWS:
+
+[NEWS] Bullish appoints a former NYSE president. [https://investors.bullish.com/static-files/bb7bd993-3b7f-424e-ae01-f4800ad2d4de]
+Bullish said in its 18 November third-quarter filing that it appointed former NYSE Group President Stacey Cunningham as president. [https://investors.bullish.com/static-files/bb7bd993-3b7f-424e-ae01-f4800ad2d4de] The company also authorized a share-repurchase program of up to $300 million, which it says may be modified, suspended or discontinued. [https://investors.bullish.com/static-files/bb7bd993-3b7f-424e-ae01-f4800ad2d4de] Its filing says the planned Equiniti acquisition remains subject to remaining approvals and is expected to close in January 2027. [https://investors.bullish.com/static-files/bb7bd993-3b7f-424e-ae01-f4800ad2d4de]
+
+[NEWS] Rothera self-certifies a bitcoin event contract. [https://www.cftc.gov/filings/ptc/ptc11162653415.pdf]
+Rothera Exchange and Clearing filed a self-certification with the Commodity Futures Trading Commission for a Bitcoin price event contract that it says may launch on or after 18 November. [https://www.cftc.gov/filings/ptc/ptc11162653415.pdf] The filing describes a $1 contract with prices from $0.01 to $0.99 and a one-cent minimum movement. [https://www.cftc.gov/filings/ptc/ptc11162653415.pdf] It selects underlying trading venues in different regions for its index calculation, according to the filing. [https://www.cftc.gov/filings/ptc/ptc11162653415.pdf]
+
+[NEWS] Solana Foundation backs CoinGecko's expansion. [https://solana.com/news/coingecko-backed-by-solana-foundation]
+The Solana Foundation published on 17 November that it backs CoinGecko's next phase of growth. [https://solana.com/news/coingecko-backed-by-solana-foundation] The announcement says CoinGecko serves 180,000 apps and businesses and plans to expand data, market-intelligence and trading work. [https://solana.com/news/coingecko-backed-by-solana-foundation] The notice does not state the financial terms of the backing. [https://solana.com/news/coingecko-backed-by-solana-foundation]
+
+TECH:
+
+[TECH] Solana retires its mainnet-beta label. [https://solana.com/news/solana-1-0-dropping-beta-and-what-comes-next]
+Solana Foundation announced Solana 1.0 on 16 November, replacing the network's mainnet-beta designation with mainnet and introducing a shared protocol version. [https://solana.com/news/solana-1-0-dropping-beta-and-what-comes-next] The Foundation says user balances, accounts, applications and history do not change. [https://solana.com/news/solana-1-0-dropping-beta-and-what-comes-next] It distinguishes the protocol version from separate Agave and Firedancer client releases, so operators must still follow each client's release guidance. [https://solana.com/news/solana-1-0-dropping-beta-and-what-comes-next]
+
+[TECH] Seam tests a Zcash light client on Base. [https://ethresear.ch/t/seam-verifying-zcash-headers-on-base-with-eip-152-and-proving-shielded-payments-without-linking-the-chains/26239]
+Researcher Himess described Seam on 11 November as a testnet, unaudited contract that verifies Zcash headers against consensus rules on Base. [https://ethresear.ch/t/seam-verifying-zcash-headers-on-base-with-eip-152-and-proving-shielded-payments-without-linking-the-chains/26239] The post says a relay deployed on 29 October crossed Zcash's 6 November NU7 activation without redeployment and followed 5,405 later headers. [https://ethresear.ch/t/seam-verifying-zcash-headers-on-base-with-eip-152-and-proving-shielded-payments-without-linking-the-chains/26239] Its reported estimate is about 0.01 ETH daily at a 0.005 gwei Base fee to follow 3,456 25-second headers, so this remains a measured experiment rather than a production claim. [https://ethresear.ch/t/seam-verifying-zcash-headers-on-base-with-eip-152-and-proving-shielded-payments-without-linking-the-chains/26239]
+
+CULTURE:
+
+[CULTURE] Optimism proposes an exit path from its standard-rollup charter. [https://gov.optimism.io/t/proposal-to-introduce-upgrade-authority-transfer-to-the-standard-rollup-charter/10950]
+An Optimism ratification proposal would let a chain governor request transfer of upgrade authority from the Security Council to a chosen address. [https://gov.optimism.io/t/proposal-to-introduce-upgrade-authority-transfer-to-the-standard-rollup-charter/10950] The proposal requires the Foundation to post a public notice and the Security Council to wait at least 30 days before execution; the chain would then cease to be a Standard Rollup. [https://gov.optimism.io/t/proposal-to-introduce-upgrade-authority-transfer-to-the-standard-rollup-charter/10950] An ETHBEAT governance team comment posted on 18 November supported the proposal but asked why the notice period is 30 days rather than the one-week veto period used in an earlier Swell transfer. [https://gov.optimism.io/t/proposal-to-introduce-upgrade-authority-transfer-to-the-standard-rollup-charter/10950]
+
+[CULTURE] Optimism's rebate proposal exposes a disclosure dispute. [https://gov.optimism.io/t/proposal-for-sequencer-fee-rebates-on-op-mainnet/10940]
+The Optimism Foundation proposes rebates from sequencer and priority-fee revenue for partners whose attributed activity creates those fees. [https://gov.optimism.io/t/proposal-for-sequencer-fee-rebates-on-op-mainnet/10940] It proposes aggregate reporting in annual budget reports rather than publishing deal identities, counts or terms. [https://gov.optimism.io/t/proposal-for-sequencer-fee-rebates-on-op-mainnet/10940] On 18 November, ETHBEAT's governance team said it voted against the plan because delegates would lack enough information to assess the mandate, while accepting the stated rationale for commercial confidentiality. [https://gov.optimism.io/t/proposal-for-sequencer-fee-rebates-on-op-mainnet/10940]
+
+READING LIST:
+
+[https://www.investing.com/news/economy-news/binance-says-it-has-court-order-to-get-back-crypto-frozen-after-63-billion-heist-5036806] Reuters' account names the order's practical restrictions and the 1 December hearing.
+[https://www.justice.gov/opa/pr/justice-department-announces-actions-disrupt-north-koreas-massive-theft-cryptocurrency] The Justice Department gives the public recovery figures and its attribution.
+[https://solana.com/news/solana-1-0-dropping-beta-and-what-comes-next] The protocol-versus-client distinction is set out plainly.
+[https://ethresear.ch/t/seam-verifying-zcash-headers-on-base-with-eip-152-and-proving-shielded-payments-without-linking-the-chains/26239] The author publishes code, limits and measurements alongside the proposal.
+
+METHOD:
+This edition swept official company, regulator, protocol and governance sources published or updated from 16 November through 19 November 2026, with a continuity check against the rehearsal leads. It cut uncorroborated exchange-listing claims and social posts whose original notices could not be verified. The Binance injunction's operational details rest on Reuters' named reporting from court documents; the remaining reported claims use primary notices or public filings.
